@@ -1,10 +1,9 @@
 ---
 name: fortress-balance-sheet-audit
-description: 'Assess organizational or financial resilience across the four pillars
-  of fortress thinking: capital, liquidity, earnings quality, and operational strength.'
+description: 'Assess organizational or financial resilience across the four pillars of fortress thinking: capital, liquidity, earnings quality, and operational strength.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - fortress-balance-sheet-audit
